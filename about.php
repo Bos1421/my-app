@@ -1,1 +1,6 @@
-"<?php echo About page"?
+<?php
+
+
+echo "this is abourt page";
+
+?>
